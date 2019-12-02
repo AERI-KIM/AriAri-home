@@ -1,4 +1,4 @@
-###Basic for Stack
+###Basic for Stack###
 
 1. STACK과 STACK_NODE
 	Stack은 head structure과 data node로 구성된다. 둘 다 struct이며, typedef을 사용해 각각 STACK과 STACK_NODE으로 재정의한다. 
