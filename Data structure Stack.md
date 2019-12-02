@@ -1,3 +1,4 @@
+```c
 #include "ADT_stack.h"
 #include <stdlib.h>
 
@@ -44,3 +45,4 @@ void* pop(STACK* stack)
 	return data_out;
 
 }
+'''
